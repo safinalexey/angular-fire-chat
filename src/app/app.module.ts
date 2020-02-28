@@ -14,12 +14,7 @@ import {RouterModule} from '@angular/router';
 import {AuthGuard} from './services/auth.guard';
 
 const config = {
-	apiKey: 'AIzaSyAiDNDNuqtF_gTmU6FXoBHcIjem0hDxVYY',
-	authDomain: 'ng-chat-d6a53.firebaseapp.com',
-	databaseURL: 'https://ng-chat-d6a53.firebaseio.com',
-	projectId: 'ng-chat-d6a53',
-	storageBucket: 'gs://ng-chat-d6a53.appspot.com/',
-	messagingSenderId: '535595157361'
+
 }
 
 @NgModule({
